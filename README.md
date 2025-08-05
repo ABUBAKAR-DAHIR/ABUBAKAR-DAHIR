@@ -79,7 +79,12 @@
 ### 🙌 Fun Fact
 > "Learning is my fuel. Motivation is just an add-on, not a driver. Tech is my tool."
 
-![snake gif](https://github.com/ABUBAKAR-DAHIR/ABUBAKAR-DAHIR/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABUBAKAR-DAHIR/ABUBAKAR-DAHIR/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
 
 ---
 
