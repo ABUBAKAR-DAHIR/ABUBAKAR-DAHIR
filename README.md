@@ -57,6 +57,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
+
 ---
 
 ### 📊 GitHub Stats
@@ -77,6 +78,8 @@
 
 ### 🙌 Fun Fact
 > "Learning is my fuel. Motivation is just an add-on, not a driver. Tech is my tool."
+
+![snake gif](https://github.com/ABUBAKAR-DAHIR/ABUBAKAR-DAHIR/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
