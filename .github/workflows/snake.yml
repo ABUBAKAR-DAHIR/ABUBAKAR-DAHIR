@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"   # Run every day at midnight UTC
   workflow_dispatch:      # Allow manual trigger
 
+permissions:
+  contents: write          # ✅ This line is REQUIRED to allow pushing to output branch
+
 jobs:
   generate:
     runs-on: ubuntu-latest
