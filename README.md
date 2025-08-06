@@ -71,7 +71,7 @@
 
 ### 📫 Let's Connect
 - 🌐 [My LinkedIn](https://www.linkedin.com/in/your-link)
-- 💬 Telegram: [@AbubakarDahirHassan](t.me/AbubakarDahirHassan)
+- 💬 Telegram: [@AbubakarDahirHassan](https://t.me/AbubakarDahirHassan)
 - 📧 Email: `abu112abu112abu112@gmail.com`
 
 ---
