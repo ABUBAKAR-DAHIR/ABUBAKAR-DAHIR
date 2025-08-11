@@ -21,7 +21,7 @@
 - 📦 REST APIs with Node.js + Express + MongoDB
 - 🧮 DSA with JavaScript 
 
----
+--- 
 
 ## 🛠️ Tech Stack
 
@@ -68,6 +68,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ABUBAKAR-DAHIR&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ABUBAKAR-DAHIR&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" />
 </p>
 
 ---
