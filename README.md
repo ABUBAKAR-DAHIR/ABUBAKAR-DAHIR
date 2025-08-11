@@ -42,6 +42,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)&nbsp;
 [![XML](https://img.shields.io/badge/-XML-8A2BE2?style=flat&logo=xml&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/XML)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
+
 
 #### 🖥️ Backend & DB  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
