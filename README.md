@@ -43,7 +43,6 @@
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)&nbsp;
 [![XML](https://img.shields.io/badge/-XML-8A2BE2?style=flat&logo=xml&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/XML)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)&nbsp;
 
 
 
@@ -62,6 +61,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-FF6C37?style=flat&logo=thunder-client&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)&nbsp;
+
 
 
 
