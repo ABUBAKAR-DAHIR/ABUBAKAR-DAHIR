@@ -43,6 +43,8 @@
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)&nbsp;
 [![XML](https://img.shields.io/badge/-XML-8A2BE2?style=flat&logo=xml&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/XML)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)&nbsp;
+
 
 
 #### 🖥️ Backend & DB  
@@ -55,8 +57,7 @@
 ![Room DB](https://img.shields.io/badge/Room_DB-6C3483?style=flat&logo=android&logoColor=white)
 
 #### 📱 Mobile & Tools  
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)&nbsp;
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
