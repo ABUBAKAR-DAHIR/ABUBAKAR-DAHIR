@@ -13,18 +13,19 @@
 ---
 
 ### 💻 About Me
-- 🎓 BTech CSE + BA Mathematics Student  
-- ⚒️ MERN Stack | Android (Jetpack Compose) | DSA (Leetcode, GFG)  
-- 📚 Exploring **Coroutines**, **Room**, **Firebase**, and **React Query**  
-- ☁️ Deploying with **Render**, **Netlify**, **MongoDB Atlas**
+- 🎓 **BTech CSE + BA Mathematics Student**  
+- ⚒️ **Full-Stack Developer:** MERN Stack | Android (Jetpack Compose) | DSA (LeetCode, GFG)  
+- 📚 Passionate about building efficient, user-friendly apps — from Express/Deno backends to Compose UIs and modern React frontends  
+- ☁️ Deploying and experimenting with **Render**, **Netlify**, **MongoDB Atlas**, and **Firebase**
 
 ---
 
 ### 🧠 What I’m Learning Now
-- ⚛️ Advanced React + Next.js (Layouts, Hooks, Framer Motion, MongoDB)
-- 📲 Android Compose + Firebase Auth + Room DB
-- 📦 REST APIs with Node.js + Express + MongoDB
-- 🧮 DSA with JavaScript 
+- ⚛️ **Next.js + TypeScript** — App Router, Layouts, Server Components, and strongly typed frontends  
+- 🦕 **Deno & Deno Deploy** — modern runtime for fast, secure backends (exploring migration patterns from Node)  
+- 📱 **Android (Jetpack Compose)** — Firebase Auth, Room DB, DataStore, and coroutines best-practices  
+- 🌐 **Full-Stack Integration** — connecting Android apps, Next.js frontends, and Node/Deno APIs smoothly  
+- 🧮 **Data Structures & Algorithms** — sharpening problem-solving skills with JavaScript and C/C++
 
 --- 
 
