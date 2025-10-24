@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.gif" alt="Banner" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Abubakar!</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Android Developer | DSA Explorer</h3>
 
