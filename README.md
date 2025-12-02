@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abubakar!</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Android Developer | DSA Explorer</h3>
+<h3 align="center">Full-Stack Developer | Android Developer | DSA Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Passionate+about+Code+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;Building+Cool+Projects+%F0%9F%9A%80" alt="Typing SVG" />
