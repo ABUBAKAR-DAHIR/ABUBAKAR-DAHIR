@@ -11,23 +11,28 @@
 
 ---
 
-### 💻 About Me
-- 🎓 **BTech CSE + BA Mathematics Student**  
-- ⚒️ **Full-Stack Developer:** MERN Stack | Android (Jetpack Compose) | Next.js | DSA (LeetCode, GFG)  
-- 📚 Passionate about building efficient, user-friendly apps — from Express/Deno backends to Compose UIs and modern React frontends  
-- ☁️ Deploying and experimenting with **Render**, **Netlify**, **MongoDB Atlas**, **Firebase**, **Deno Deploy**
+**About Me:**  
+I’m a Full-Stack Software Engineer passionate about building efficient, user-friendly web and mobile applications. I enjoy solving complex problems with clean, maintainable code and exploring modern technologies like React, Next.js, Node.js, and cloud systems. Constantly learning, I focus on DSA, algorithms, and innovative solutions to bring impactful projects to life.  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=450&lines=Passionate+about+Code+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;Building+Impactful+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Precision-Engineering-0ea5e9?style=for-the-badge&logo=appveyor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Innovation-Futuristic-8b5cf6?style=for-the-badge&logo=idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-Minimalism-22c55e?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
 ---
 
-### 🧠 What I’m Learning Now
-- ⚛️ **Next.js + TypeScript** — App Router, Layouts, Server Components, strongly typed frontends  
-- 🧩 **Zod** — schema validation for forms and APIs  
-- 🦕 **Deno & Deno Deploy** — modern runtime for fast, secure backends, exploring migration from Node.js  
-- 📱 **Android (Jetpack Compose)** — Firebase Auth, Room DB, DataStore, and coroutines best-practices  
-- 🌐 **Full-Stack Integration** — connecting Android apps, Next.js frontends, and Node/Deno APIs smoothly  
-- 🧮 **Data Structures & Algorithms** — sharpening problem-solving skills with JavaScript and C/C++  
-- 💾 **Databases & ORMs** — PostgreSQL, Prisma ORM, Neon serverless Postgres  
-- ☁️ **Cloud & Deployment** — AWS, Render, Netlify, Firebase  
+
+### 🔥 Focus Areas
+- Full-Stack Web Development (React, Next.js, Node.js, Prisma, PostgreSQL, Neon, Better Auth)
+- Mobile Apps (Jetpack Compose + Firebase, React Native)
+- Cloud & Deployment (AWS, Render, Netlify, Vercel)
+- DSA & Algorithm Problem Solving
+
 
 ---
 
@@ -98,15 +103,28 @@
 
 ---
 
-### 📫 Let's Connect
-- 🌐 [My LinkedIn](https://www.linkedin.com/in/your-link)
-- 💬 Telegram: [@AbubakarDahirHassan](https://t.me/AbubakarDahirHassan)
-- 📧 Email: `abu112abu112abu112@gmail.com`
+<p align="center">
+  <h3 align="center" style="margin-bottom:5px;">📫 Let's Connect</h3>
+  <p align="center" style="margin-bottom:45px;"><em>Let’s build something amazing together! 🚀</em></p>
 
----
+  <div align="center" style="margin-top:45px;">
+      <a href="https://www.linkedin.com/in/abubakar-hassan-2420663a3/" target="_blank">
+        <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="https://github.com/ABUBAKAR-DAHIR" target="_blank">
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://t.me/AbubakarDahirHassan" target="_blank">
+        <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
+      </a>
+      <a href="mailto:abubakardahirhassan@gmail.com" target="_blank">
+        <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+  </div>
 
-### 🙌 Fun Fact
-> "Learning is my fuel. Motivation is just an add-on, not a driver. Tech is my tool."
+  <br /><br /> <!-- adds margin at the bottom -->
+</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ABUBAKAR-DAHIR/ABUBAKAR-DAHIR/output/github-contribution-grid-snake-dark.svg" />
