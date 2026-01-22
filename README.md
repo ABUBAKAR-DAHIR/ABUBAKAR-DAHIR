@@ -103,6 +103,20 @@ I’m a Full-Stack Software Engineer passionate about building efficient, user-f
 
 ---
 
+### ✍️ Writing & Blogs
+
+<div align="center">
+  <p>Read my Blogs on</p>
+  <a href="https://medium.com/@abu112abu112abu112" target="_blank">
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://dev.to/abu_33002dfe22bf9dcf63338" target="_blank">
+    <img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+</div>
+
+---
+
 <p align="center">
   <h3 align="center" style="margin-bottom:5px;">📫 Let's Connect</h3>
   <p align="center" style="margin-bottom:45px;"><em>Let’s build something amazing together! 🚀</em></p>
@@ -117,8 +131,15 @@ I’m a Full-Stack Software Engineer passionate about building efficient, user-f
       <a href="https://t.me/AbubakarDahirHassan" target="_blank">
         <img alt="Telegram" src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
       </a>
+      <br />
       <a href="mailto:abubakardahirhassan@gmail.com" target="_blank">
         <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+      <a href="https://medium.com/@abu112abu112abu112" target="_blank">
+        <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+      </a>
+      <a href="https://dev.to/abu_33002dfe22bf9dcf63338" target="_blank">
+        <img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
       </a>
   </div>
 
