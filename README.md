@@ -14,9 +14,6 @@
 **About Me:**  
 I’m a Full-Stack Software Engineer passionate about building efficient, user-friendly web and mobile applications. I enjoy solving complex problems with clean, maintainable code and exploring modern technologies like React, Next.js, Node.js, and cloud systems. Constantly learning, I focus on DSA, algorithms, and innovative solutions to bring impactful projects to life.  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=450&lines=Passionate+about+Code+%F0%9F%92%BB;Always+Learning+%F0%9F%93%9A;Building+Impactful+Projects+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Precision-Engineering-0ea5e9?style=for-the-badge&logo=appveyor&logoColor=white" />
@@ -47,6 +44,8 @@ I’m a Full-Stack Software Engineer passionate about building efficient, user-f
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)&nbsp;
+
 
 #### 🧱 Frontend & Styling  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)&nbsp;
