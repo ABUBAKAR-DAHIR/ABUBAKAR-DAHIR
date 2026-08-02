@@ -73,20 +73,12 @@ I'm passionate about system design, cloud architecture, DevOps, and building cle
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Neon](https://img.shields.io/badge/-Neon-3ECF8E?style=flat)
 ![Prisma](https://img.shields.io/badge/-Prisma-0C344B?style=flat&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Room DB](https://img.shields.io/badge/Room_DB-6C3483?style=flat&logo=android&logoColor=white)
-[![Zod](https://img.shields.io/badge/-Zod-5C4EE5?style=flat&logo=zod&logoColor=white)](https://github.com/colinhacks/zod)
 
 #### 📱 Mobile & Tools
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Thunder Client](https://img.shields.io/badge/-Thunder%20Client-FF6C37?style=flat&logo=thunder-client&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 #### ☁️ Cloud, DevOps & Infrastructure
